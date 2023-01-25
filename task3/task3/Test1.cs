@@ -27,18 +27,4 @@ namespace task3
         public Value[]? values { get; set; }
     }
 
-    //public class Value1
-    //{
-    //    public int id { get; set; }
-    //    public string? title { get; set; }
-    //    public Value2[]? values { get; set; }
-    //}
-
-    //public class Value2
-    //{
-    //    public int id { get; set; }
-    //    public string? title { get; set; }
-    //    public string? value { get; set; }
-    //}
-
 }
