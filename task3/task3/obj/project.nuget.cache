@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0QH6SyQ4UU3+SdnbCjAYdM4s8h52OCwa6AF0AxQNZxMCRemrKDz1PLCsBlNeXYTDe5TeBgZjoQP2W3HuyVN3gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sente\\source\\repos\\task3\\task3\\task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sente\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
