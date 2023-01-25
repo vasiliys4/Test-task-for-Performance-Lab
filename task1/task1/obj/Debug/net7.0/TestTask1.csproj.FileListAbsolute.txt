@@ -1,0 +1,15 @@
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.csproj.AssemblyReference.cache
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.AssemblyInfoInputs.cache
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.AssemblyInfo.cs
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.csproj.CoreCompileInputs.cache
+C:\Users\sente\source\repos\TestTask1\TestTask1\bin\Debug\net7.0\TestTask1.exe
+C:\Users\sente\source\repos\TestTask1\TestTask1\bin\Debug\net7.0\TestTask1.deps.json
+C:\Users\sente\source\repos\TestTask1\TestTask1\bin\Debug\net7.0\TestTask1.runtimeconfig.json
+C:\Users\sente\source\repos\TestTask1\TestTask1\bin\Debug\net7.0\TestTask1.dll
+C:\Users\sente\source\repos\TestTask1\TestTask1\bin\Debug\net7.0\TestTask1.pdb
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.dll
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\refint\TestTask1.dll
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.pdb
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\TestTask1.genruntimeconfig.cache
+C:\Users\sente\source\repos\TestTask1\TestTask1\obj\Debug\net7.0\ref\TestTask1.dll
